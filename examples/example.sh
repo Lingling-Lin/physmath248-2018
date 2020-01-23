@@ -4,10 +4,10 @@
 # it in on the command line
 #
 # chmod u+x example.sh
-# is the command that would make this script an executable
+# is the command that makes this script an executable program
 # then just type example.sh on the command line and hit return
-ls
-mkdir example_dir
-cd example_dir
-touch example.txt
-pwd
+
+mkdir size_dir
+cd size_dir
+du -sh ../* > size.txt
+cat size.txt
