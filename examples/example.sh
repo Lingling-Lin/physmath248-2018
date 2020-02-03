@@ -1,3 +1,4 @@
+#!/bin/bash                                                                                                                                     
 # this is a comment
 # if you make this file executable you can use it like a program
 # each line will be executed one after another as if you typed
